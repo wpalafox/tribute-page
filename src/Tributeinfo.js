@@ -1,4 +1,5 @@
 import React from 'react'
+import styles from './tributeinfo.css'
 
 export default function Tributeinfo() {
     return (
