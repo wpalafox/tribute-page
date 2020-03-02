@@ -5,7 +5,7 @@ export default function Tributeinfo() {
     return (
         <div className="container">
             <h1>Kendrick Lamar</h1>
-         <p>Kendrick Lamar Duckworth (born June 17, 1987) is an American rapper, 
+         <p id="tribute-info">Kendrick Lamar Duckworth (born June 17, 1987) is an American rapper, 
             songwriter, and record producer. He is regarded by many critics and contemporaries 
             as one of the most important and influential rappers of his generation, and as one of the 
             greatest rappers of all time. Raised in Compton, California, Lamar embarked on 
@@ -30,6 +30,7 @@ export default function Tributeinfo() {
             course of his career, including 13 Grammy Awards and an Academy Award nomination. In 2012, MTV named him 
             the "Hottest MC in the Game" on their annual list.Time named him one of the 100 most influential 
             people in the world in 2016. </p>
+            <a href="https://en.wikipedia.org/wiki/Kendrick_Lamar" target="_blank">More infomation on Kendrick</a>
         </div>
     )
 }
